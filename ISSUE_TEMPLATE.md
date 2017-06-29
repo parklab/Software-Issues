@@ -1,6 +1,3 @@
-
-# <div align="center"><img width="315" alt="screen shot 2017-06-29 at 11 15 39 am" src="https://user-images.githubusercontent.com/5629547/27695272-6b0855d0-5cbc-11e7-9d94-56e75c4c3316.png"></div>
-
 Hi there! Thanks for being a user of [ParkLab software](https://compbio.hms.harvard.edu/software-1)! 
 
 If you've made it this far you most likely are having an issue.
