@@ -1,7 +1,3 @@
-Hi there! Thanks for being a user of [ParkLab software](https://compbio.hms.harvard.edu/software-1)! 
-
-If you've made it this far you most likely are having an issue.
-
 Please provide us with the following information so we can help you out:
 
 #### The Software:
