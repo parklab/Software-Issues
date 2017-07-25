@@ -2,4 +2,4 @@
 This repo exists for users of ParkLab software to be able to submit issues and have them remediated.
 
 Please submit any issue you have encountered 
-[<b>here</b>](https://gitreports.com/issue/parklab/Software-Issues), and follow our guidelines so we can best help you out!
+[<b>here</b>](https://gitreports.com/issue/parklab/Software-Issues?email_public=on), and follow our guidelines so we can best help you out!
